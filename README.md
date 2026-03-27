@@ -1,12 +1,12 @@
 Hello everyone
 
-here in these notebooks and SQL queries, i am trying to help busniess in quesitons:
+here in these notebooks and SQL queries, i am trying to help busniess in questions:
 
-1) why customers stop relaiton with a company, and what are the best products and services to reduce churn
+1) why customers stop relation with a company, and what are the best products and services to reduce churn
 
-churn rate was calcualted, the customers groups with less chirn was identitfyed, and importatn reaons for churned customers detected
+churn rate was calcualted, the customers groups with less chirn was identitifyed, and importatn reaons for churned customers detected
 
-2) what are the most effective markeing campaigns, and where should spending be focused and optimized?
+2) what are the most effective marketing campaigns, and where should spending be focused and optimized?
 
 calcuated metrics inlcuded:
 campaigns with most clicks.
@@ -25,4 +25,4 @@ comparison between months and years.
 market segemetns compared.
 insights about identifying fast growing products, discovering underperformed products, and understand the seasonality in monthly sales.
 
-profit maring and discount rate visualziation to discover best discount range
+profit maring and discount rate visualization to discover best discount range
